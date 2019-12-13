@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e11a9b38-ff28-4eb2-a417-2278f592b5d7" name="Default Changelist" comment="" />
+    <list default="true" id="e11a9b38-ff28-4eb2-a417-2278f592b5d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,10 +27,14 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1UUoxLqx3el73HE5CG9b5WVc4y4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,12 +42,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -66,6 +75,7 @@
       <updated>1575420780359</updated>
       <workItem from="1575420787825" duration="916000" />
       <workItem from="1575422405874" duration="1068000" />
+      <workItem from="1576251831620" duration="323000" />
     </task>
     <servers />
   </component>
@@ -73,13 +83,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="128" y="0" key="SettingsEditor" timestamp="1575422548025">
+    <state x="104" y="0" width="1071" height="800" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576252316932">
       <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="0" width="1071" height="800" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1576252316932" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1576252354106">
+      <screen x="0" y="23" width="1280" height="734" />
     </state>
     <state x="128" y="0" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1575422548025" />
-    <state x="305" y="185" key="run.anything.popup" timestamp="1575422540466">
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.734@0.23.1280.734" timestamp="1576252354106" />
+    <state x="305" y="185" key="run.anything.popup" timestamp="1576252239801">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="305" y="185" key="run.anything.popup/0.0.1280.800@0.0.1280.800" timestamp="1575422540466" />
+    <state x="305" y="185" key="run.anything.popup/0.0.1280.800@0.0.1280.800" timestamp="1576252239801" />
   </component>
 </project>
