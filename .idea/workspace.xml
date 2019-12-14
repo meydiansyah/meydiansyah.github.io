@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e11a9b38-ff28-4eb2-a417-2278f592b5d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/info/css/new.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/info/css/stylish-portfolio.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/info/css/stylish-portfolio.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/info/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/info/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +83,7 @@
       <workItem from="1575420787825" duration="916000" />
       <workItem from="1575422405874" duration="1068000" />
       <workItem from="1576251831620" duration="2424000" />
-      <workItem from="1576347537873" duration="1537000" />
+      <workItem from="1576347537873" duration="1651000" />
     </task>
     <servers />
   </component>
