@@ -23,6 +23,9 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    user-select:none;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -712,10 +715,10 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
-		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.5) 75%);
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.55) 60%);
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.55) 60%);
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.55) 60%);
+		background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.55) 60%);
 		bottom: 0;
 		cursor: default;
 		height: 6em;
@@ -972,7 +975,7 @@ input, select, textarea {
 		}
 
 		#bg {
-			background-size: 300px auto;
+			background-size: 570px auto;
 			width: 900px;
 		}
 
